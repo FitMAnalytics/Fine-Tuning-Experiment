@@ -1,0 +1,5 @@
+,AUC-ROC,BCE
+GPT-4.1,0.8105,0.5566
+Gemini-2.5-Flash,0.8089,0.5468
+Qwen3-4B,,
+Fine-Tuned Qwen3-4B (200 *3),0.8645,0.5489
